@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Patches">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/Patches" />
+      <root url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/ext" />
+      <root url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/lib64" />
+      <root url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/ext" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/ext" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/lib64" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/Patches" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../GIBDEV10/LIQ/Server/ext" recursive="false" type="SOURCES" />
+  </library>
+</component>
